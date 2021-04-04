@@ -1,6 +1,7 @@
 E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Application.Dapper\bin\Debug\netcoreapp2.0\EcommerceShop.Application.Dapper.deps.json
 E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Application.Dapper\bin\Debug\netcoreapp2.0\EcommerceShop.Application.Dapper.dll
 E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Application.Dapper\bin\Debug\netcoreapp2.0\EcommerceShop.Application.Dapper.pdb
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp2.0\EcommerceShop.Application.Dapper.csprojAssemblyReference.cache
 E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp2.0\EcommerceShop.Application.Dapper.AssemblyInfoInputs.cache
 E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp2.0\EcommerceShop.Application.Dapper.AssemblyInfo.cs
 E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp2.0\EcommerceShop.Application.Dapper.csproj.CoreCompileInputs.cache
