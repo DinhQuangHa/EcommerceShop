@@ -1,0 +1,16 @@
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.0\EcommerceShop.Data.EF.deps.json
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.0\EcommerceShop.Data.EF.dll
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.0\EcommerceShop.Data.EF.pdb
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.0\EcommerceShop.Data.dll
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.0\EcommerceShop.Infrastructure.dll
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.0\EcommerceShop.Utilities.dll
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.0\EcommerceShop.Data.pdb
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.0\EcommerceShop.Infrastructure.pdb
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\bin\Debug\netcoreapp2.0\EcommerceShop.Utilities.pdb
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.0\EcommerceShop.Data.EF.csprojAssemblyReference.cache
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.0\EcommerceShop.Data.EF.AssemblyInfoInputs.cache
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.0\EcommerceShop.Data.EF.AssemblyInfo.cs
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.0\EcommerceShop.Data.EF.csproj.CoreCompileInputs.cache
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.0\EcommerceShop.Data.EF.csproj.CopyComplete
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.0\EcommerceShop.Data.EF.dll
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Data.EF\obj\Debug\netcoreapp2.0\EcommerceShop.Data.EF.pdb

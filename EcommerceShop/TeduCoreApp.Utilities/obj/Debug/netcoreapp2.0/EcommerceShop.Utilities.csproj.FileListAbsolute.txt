@@ -1,0 +1,9 @@
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Utilities\bin\Debug\netcoreapp2.0\EcommerceShop.Utilities.deps.json
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Utilities\bin\Debug\netcoreapp2.0\EcommerceShop.Utilities.dll
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Utilities\bin\Debug\netcoreapp2.0\EcommerceShop.Utilities.pdb
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Utilities\obj\Debug\netcoreapp2.0\EcommerceShop.Utilities.csprojAssemblyReference.cache
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Utilities\obj\Debug\netcoreapp2.0\EcommerceShop.Utilities.AssemblyInfoInputs.cache
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Utilities\obj\Debug\netcoreapp2.0\EcommerceShop.Utilities.AssemblyInfo.cs
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Utilities\obj\Debug\netcoreapp2.0\EcommerceShop.Utilities.csproj.CoreCompileInputs.cache
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Utilities\obj\Debug\netcoreapp2.0\EcommerceShop.Utilities.dll
+E:\Projects\Template\Source\EcommerceShop\TeduCoreApp.Utilities\obj\Debug\netcoreapp2.0\EcommerceShop.Utilities.pdb

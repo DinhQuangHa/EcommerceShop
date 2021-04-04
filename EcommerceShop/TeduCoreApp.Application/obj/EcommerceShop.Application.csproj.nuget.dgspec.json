@@ -1,0 +1,380 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Application\\EcommerceShop.Application.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Application\\EcommerceShop.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Application\\EcommerceShop.Application.csproj",
+        "projectName": "EcommerceShop.Application",
+        "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Application\\EcommerceShop.Application.csproj",
+        "packagesPath": "C:\\Users\\ha465\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ha465\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data.EF\\EcommerceShop.Data.EF.csproj": {
+                "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data.EF\\EcommerceShop.Data.EF.csproj"
+              },
+              "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data\\EcommerceShop.Data.csproj": {
+                "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data\\EcommerceShop.Data.csproj"
+              },
+              "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Utilities\\EcommerceShop.Utilities.csproj": {
+                "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Utilities\\EcommerceShop.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "EPPlus.Core": {
+              "target": "Package",
+              "version": "[1.5.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data.EF\\EcommerceShop.Data.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data.EF\\EcommerceShop.Data.EF.csproj",
+        "projectName": "EcommerceShop.Data.EF",
+        "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data.EF\\EcommerceShop.Data.EF.csproj",
+        "packagesPath": "C:\\Users\\ha465\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ha465\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data\\EcommerceShop.Data.csproj": {
+                "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data\\EcommerceShop.Data.csproj"
+              },
+              "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Infrastructure\\EcommerceShop.Infrastructure.csproj": {
+                "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Infrastructure\\EcommerceShop.Infrastructure.csproj"
+              },
+              "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Utilities\\EcommerceShop.Utilities.csproj": {
+                "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Utilities\\EcommerceShop.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data\\EcommerceShop.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data\\EcommerceShop.Data.csproj",
+        "projectName": "EcommerceShop.Data",
+        "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data\\EcommerceShop.Data.csproj",
+        "packagesPath": "C:\\Users\\ha465\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ha465\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {
+              "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Infrastructure\\EcommerceShop.Infrastructure.csproj": {
+                "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Infrastructure\\EcommerceShop.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Infrastructure\\EcommerceShop.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Infrastructure\\EcommerceShop.Infrastructure.csproj",
+        "projectName": "EcommerceShop.Infrastructure",
+        "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Infrastructure\\EcommerceShop.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ha465\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ha465\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Utilities\\EcommerceShop.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Utilities\\EcommerceShop.Utilities.csproj",
+        "projectName": "EcommerceShop.Utilities",
+        "projectPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Utilities\\EcommerceShop.Utilities.csproj",
+        "packagesPath": "C:\\Users\\ha465\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ha465\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

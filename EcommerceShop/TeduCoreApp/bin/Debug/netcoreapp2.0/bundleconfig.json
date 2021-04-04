@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "wwwroot/app/controllers/bill/index.min.js",
+    "inputFiles": [
+      "wwwroot/app/controllers/bill/index.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/admin-side/js/custom.min.js",
+    "inputFiles": [
+      "wwwroot/admin-side/js/custom.js"
+    ]
+  }
+]

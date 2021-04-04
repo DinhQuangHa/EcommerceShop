@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "J53AxLslWB/GcZZSaJb0A2y747qxw74BMwOjnWg2HTkn3UW/53EWRIoh2BUp2ojZZezEZ+TRcB/22YX4vcLBUQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Template\\Source\\EcommerceShop\\TeduCoreApp.Utilities\\EcommerceShop.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ha465\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\ha465\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\ha465\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\ha465\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\ha465\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ha465\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
